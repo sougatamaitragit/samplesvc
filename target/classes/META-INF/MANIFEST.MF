@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: filehandlingService
+Implementation-Version: 1
+Built-By: 605173
+Implementation-Vendor-Id: com.assigment.labtwin
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
